@@ -16,7 +16,9 @@ public class LogisticManager implements ILogisticManager {
     }
 
     @Override
-    public void notifyActors() {
-
+    public void notifyActors(Session session) {
+        System.out.println("Session " + session.getDate().toString() + " has been cancelled.");
+        session.getTrainees().forEach(trainee -> System.out.println("Trainee " + trainee.getLastName() + " has been notified."));
+        System.out.println("Trainer " + session.getTrainer().getLastName() + " has been notified.");
     }
 }

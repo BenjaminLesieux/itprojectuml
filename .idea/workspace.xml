@@ -4,38 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57b96709-0161-431d-9eec-a4fd8c985214" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/CourseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/CourseFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/SubTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/Theme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/Topic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/entity/Trainee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/entity/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/logistics/ILogisticManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/logistics/LogisticManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/sales/ISalesManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/sales/SalesManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/ITrainingManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/TrainingManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/session/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/session/SessionBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/session/SessionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    <list default="true" id="57b96709-0161-431d-9eec-a4fd8c985214" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/src/com/efrei/uml/manager/logistics/LogisticManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/logistics/LogisticManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/ITrainingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/ITrainingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/TrainingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/TrainingManager.java" afterDir="false" />
     </list>
     <list id="1305d2db-9398-4aa0-acd4-8f14629af138" name="Changes by Thomas Mariotte" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,11 +73,31 @@
       <workItem from="1687448801147" duration="8024000" />
       <workItem from="1687460910975" duration="280000" />
       <workItem from="1687461209593" duration="5747000" />
+      <workItem from="1687502370917" duration="695000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1687502436681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687502436681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1687502488029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687502488029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
