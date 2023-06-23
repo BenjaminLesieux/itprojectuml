@@ -36,6 +36,10 @@ public class Main {
         website.getLogisticManager().addSession(chemistry, session);
         website.getSalesManager().deliverSession(chemistry, client);
 
+        if (session.getTrainees().size() < 4) {
+            website.getLogisticManager().cancelSession(chemistry, session);
+        }
+
         client.evaluateSession(session, 3.2f);
         client.evaluateTrainer(session, 4.5f);
     }
