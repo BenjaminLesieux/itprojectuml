@@ -9,7 +9,7 @@ public class Trainee extends Client {
     }
 
     public void evaluateSession(Session session, float grade) {
-        session.getSessionEvaluations().add(new SessionEvaluation(this, grade, session));
+        session.getSessionEvaluations().add(new SessionEvaluation(this, grade));
     }
 
     public void evaluateTrainer(Session session, float grade) {

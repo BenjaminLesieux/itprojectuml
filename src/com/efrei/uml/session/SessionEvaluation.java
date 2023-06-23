@@ -5,12 +5,9 @@ import com.efrei.uml.entity.Trainee;
 public class SessionEvaluation {
     private Trainee trainee;
     private float grade;
-    private Session session;
-
-    public SessionEvaluation(Trainee trainee, float grade, Session session) {
+    public SessionEvaluation(Trainee trainee, float grade) {
         this.trainee = trainee;
         this.grade = grade;
-        this.session = session;
     }
 
     public Trainee getTrainee() {
@@ -19,9 +16,5 @@ public class SessionEvaluation {
 
     public float getGrade() {
         return grade;
-    }
-
-    public Session getSession() {
-        return session;
     }
 }

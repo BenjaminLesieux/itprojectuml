@@ -1,6 +1,7 @@
 package com.efrei.uml.entity;
 
 import com.efrei.uml.course.Theme;
+import com.efrei.uml.manager.sales.ISalesManager;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +20,10 @@ public class Client extends Person {
 
     public Company getCompany() {
         return company;
+    }
+
+    public void contactSales(ISalesManager salesManager) {
+        System.out.println("Contacting sales manager...");
     }
 
     public String getUsername() {
