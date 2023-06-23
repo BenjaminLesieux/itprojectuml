@@ -11,8 +11,8 @@ public class PersonalizedSession extends Session {
     private Client client;
     private TrainingPlan trainingPlan;
 
-    public PersonalizedSession(Date date, String address, SessionType sessionType, Trainer trainer, Trainee trainee, CourseFrequency courseFrequency, Client client, TrainingPlan trainingPlan) {
-        super(date, address, sessionType, trainer, trainee, courseFrequency);
+    public PersonalizedSession(Date date, String address, SessionType sessionType, Trainer trainer, CourseFrequency courseFrequency, Client client, TrainingPlan trainingPlan) {
+        super(date, address, sessionType, trainer, courseFrequency);
         this.client = client;
         this.trainingPlan = trainingPlan;
     }

@@ -20,7 +20,6 @@ public class SessionBuilder {
                 this.session.getAddress(),
                 this.session.getSessionType(),
                 this.session.getTrainer(),
-                this.session.getTrainee(),
                 this.session.getCourseFrequency(),
                 null,
                 null
@@ -65,7 +64,6 @@ public class SessionBuilder {
                     builder.session.getAddress(),
                     builder.session.getSessionType(),
                     builder.session.getTrainer(),
-                    builder.session.getTrainee(),
                     builder.session.getCourseFrequency(),
                     null,
                     null
