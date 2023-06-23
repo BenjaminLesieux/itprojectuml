@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57b96709-0161-431d-9eec-a4fd8c985214" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/CourseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/CourseFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/SubTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/Theme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/course/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/entity/Trainee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/entity/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/logistics/ILogisticManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/logistics/LogisticManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/sales/ISalesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/sales/SalesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/ITrainingManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/manager/training/TrainingManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/session/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/session/SessionBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/efrei/uml/session/SessionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <list id="1305d2db-9398-4aa0-acd4-8f14629af138" name="Changes by Thomas Mariotte" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2RZDdiGvGzcffdzfa1V1120ewj9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.efrei.uml.course" />
+      <recent name="com.efrei.uml" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b96709-0161-431d-9eec-a4fd8c985214" name="Changes" comment="" />
+      <created>1687448800201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687448800201</updated>
+      <workItem from="1687448801147" duration="8024000" />
+      <workItem from="1687460910975" duration="280000" />
+      <workItem from="1687461209593" duration="5747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
